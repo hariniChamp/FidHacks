@@ -1,0 +1,25 @@
+{
+  "id": "maya",
+  "name": "Maya",
+  "profile": {
+    "experience": "I know some basics",
+    "goal": "Start investing",
+    "stage": "First full-time job",
+    "earningPower": 46000
+  },
+  "account": {
+    "institution": "Fidelity",
+    "type": "Individual brokerage",
+    "linked": true
+  },
+  "holdings": [
+    { "t": "VTI", "name": "Total Market ETF", "value": 1240, "gain": 8.2 },
+    { "t": "AAPL", "name": "Apple", "value": 610, "gain": 4.1 },
+    { "t": "NVDA", "name": "NVIDIA", "value": 462, "gain": 21.5 },
+    { "t": "TSLA", "name": "Tesla", "value": 295, "gain": -6.3 },
+    { "t": "Cash", "name": "Core position", "value": 240, "gain": 0 }
+  ],
+  "history12mo": [2412, 2455, 2390, 2510, 2568, 2540, 2622, 2698, 2660, 2744, 2801, 2847],
+  "meshScore": 54,
+  "dailyChange": { "amount": 12.63, "percent": 0.44 }
+}
