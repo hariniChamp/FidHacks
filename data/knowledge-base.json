@@ -1,0 +1,40 @@
+{
+  "description": "Curated knowledge base for the Flourish coach. In production this is embedded into a vector store; in the prototype it grounds the coach's system prompts and is served here for transparency.",
+  "sources": ["Fidelity Learn", "Investor.gov", "Curated women-led company research"],
+  "categories": [
+    {
+      "category": "Investing basics",
+      "topics": [
+        { "title": "ETFs & index funds", "summary": "One purchase, hundreds of companies. Diversification for beginners without stock picking." },
+        { "title": "Risk & diversification", "summary": "Correlation measures how holdings move together. High correlation means your eggs share a basket." },
+        { "title": "Compound interest", "summary": "Growth on growth. Small early habits outweigh large late ones." },
+        { "title": "IPOs, decoded", "summary": "A private company selling shares to the public for the first time. Early hype often outruns reality." }
+      ]
+    },
+    {
+      "category": "Career & pay",
+      "topics": [
+        { "title": "Salary negotiation", "summary": "The first number anchors the range. Rehearsal beats improvisation." },
+        { "title": "401(k) & the match", "summary": "An employer match is part of your compensation. Not claiming it is leaving pay behind." },
+        { "title": "RSUs & equity pay", "summary": "Pay in shares that vest over time. Vesting schedules shape when the money is really yours." },
+        { "title": "Benefits, decoded", "summary": "HSA, FSA, premiums, deductibles: the offer-letter alphabet, translated." }
+      ]
+    },
+    {
+      "category": "Women & money",
+      "topics": [
+        { "title": "The investing gap", "summary": "Women start investing later and hold more cash. The gap is confidence-driven and closable." },
+        { "title": "Women-led funds", "summary": "FWOMX, SHE, and WOMN apply a gender-diversity lens to public markets." },
+        { "title": "Talking money out loud", "summary": "Scripts for joining money conversations that feel male-dominated." }
+      ]
+    },
+    {
+      "category": "Market literacy",
+      "topics": [
+        { "title": "The Fed & rates", "summary": "Rate decisions ripple into savings yields, loan costs, and stock valuations." },
+        { "title": "Earnings season", "summary": "Quarterly report cards. Prices move most when expectations meet reality." },
+        { "title": "Market corrections", "summary": "A 10 percent drop from a peak. Normal, frequent, and survivable with a long horizon." }
+      ]
+    }
+  ]
+}
